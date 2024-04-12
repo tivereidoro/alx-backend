@@ -12,11 +12,10 @@
 
 ---
 ### Projects completed:
-- [0x00](./0x00-pagination) : How to paginate: a dataset with simple page and page_size parameters, a dataset with hypermedia metadata, in a deletion-resilient manner.
-
+- [0x00](./0x00-pagination) : How to paginate dataset with simple page, `page_size` parameters and hypermedia metadata.
+- [0x01](./0x01-caching) : Intro to `caching system`, `FIFO`, `LIFO`, `LRU`, `MRU` & `LFU`; Purpose and limitations of a `caching system`.
+- [0x02](./0x02-i18n) : Internationalisation [`i18n`]; learning how to parametrize `Flask templates` to display different languages; to infer the correct `locale` based on URL parameters, user settings or request headers & to localize `timestamps`.
 <!--
-- [0x01](./0x01-caching) : What a `caching system` is; What `FIFO`, `LIFO`, `LRU`, `MRU` & `LFU` means; What the purpose of a `caching system` and What limits a `caching system` have.
-- [0x02](./0x02-i18n) : Learn how: to parametrize `Flask templates` to display different languages; to infer the correct `locale` based on URL parameters, user settings or request headers & to localize `timestamps`
 - [0x03](./0x03-queuing_system_in_js) : How to: run a `Redis server` on your machine and  run simple operations with the `Redis client` & build a basic Express app interacting with a `Redis server`.
 - [0x04](./0x04-TypeScript) : Types, Interfaces, Classes, Functions. 
 -->
