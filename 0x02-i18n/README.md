@@ -3,7 +3,7 @@
     
 ---
 ### 0x02. i18n
-<img src="https://img.shields.io/badge/Back-end-eed718"> &nbsp;<img src="https://img.shields.io/badge/Authentification-306998">
+<img src="https://img.shields.io/badge/Back-end-eed718">
 
 <br>
 
